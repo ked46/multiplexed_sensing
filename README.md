@@ -19,7 +19,8 @@ This project provides tools for:
 - Supports various biosensor combinations (IPTG-aTc, TTR-THS, etc.)
 
 ### Mechanistic Modeling (`mechanistic_model.py`) 
-- Implements ODE-based models of biosensor dynamics
+- Implements ODE-based models of biosensor dynamicsSynthetic gene circuits are a way to program living cells, much like we program electronic circuits.
+The goal of synthetic gene circuits is to create cells that can sense their environment, process information, and respond in a predictable, programmable way. This enables a wide range of applications, from smart therapeutics that only release drugs under specific conditions, to biosensors that detect environmental toxins, to engineered microbes for biomanufacturing. Essentially, we’re treating cells as programmable systems, inspired by electronics but built from the language of biology
 - Fits model parameters using least squares optimization
 - Accounts for:
   - Cell growth
